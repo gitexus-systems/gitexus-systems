@@ -49,7 +49,7 @@ Cada solución se desarrolla considerando el contexto, los procesos y las necesi
 
 Nuestro stack se adapta al proyecto y a sus necesidades.
 
-### Desarrollo web
+### Desarrollo web:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
@@ -60,7 +60,7 @@ Nuestro stack se adapta al proyecto y a sus necesidades.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
 </p>
 
-### Desarrollo de software y aplicaciones
+### Desarrollo de software y aplicaciones:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
@@ -69,7 +69,7 @@ Nuestro stack se adapta al proyecto y a sus necesidades.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="45" height="45" alt="Dart"/>
 </p>
 
-### Herramientas
+### Herramientas:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
