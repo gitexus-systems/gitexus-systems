@@ -29,7 +29,7 @@ Trabajamos principalmente con:
 * **Pequeñas y medianas empresas**
 * **Negocios**
 * **Organizaciones e instituciones**
-* Proyectos que necesitan digitalizar o mejorar procesos existentes
+* **Proyectos que necesitan digitalizar o mejorar procesos existentes**
 
 ---
 
@@ -39,7 +39,7 @@ Trabajamos principalmente con:
 
 Buscamos mantener una idea sencilla:
 
-**simplicidad para el usuario, complejidad donde realmente aporta valor en la arquitectura.**
+**Simplicidad para el usuario, complejidad donde realmente aporta valor en la arquitectura.**
 
 Cada solución se desarrolla considerando el contexto, los procesos y las necesidades concretas de quien la utilizará.
 
