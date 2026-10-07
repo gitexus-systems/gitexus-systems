@@ -39,7 +39,7 @@ Trabajamos principalmente con:
 
 Buscamos mantener una idea sencilla:
 
-**Simplicidad para el usuario, complejidad donde realmente aporta valor en la arquitectura.**
+***Experiencias simples para el usuario, arquitectura sólida detrás de cada solución.***
 
 Cada solución se desarrolla considerando el contexto, los procesos y las necesidades concretas de quien la utilizará.
 
